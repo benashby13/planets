@@ -6,4 +6,5 @@ She sells sea shells on the sea shore.
 The square of the hypotenuse is equal to the sum of the squares of the other two sides.
 new line 1
 new line 3
+Just to practice, let's try and remember how this works.
 
