@@ -10,3 +10,5 @@ Just to practice, let's try and remember how this works.
 
 And another, just to make sure the password is working.
 
+...And now another to check that the email is working.
+
